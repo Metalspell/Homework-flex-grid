@@ -4,7 +4,6 @@
 Using technologies:
  - HTML
  - Less
- - jQuery
  - NPM
  - Grunt.js
  
